@@ -1,0 +1,7 @@
+clock\ClockCanvas.class
+mygraphicslib\Polyline.class
+mygraphicslib\GLUtilities.class
+mygraphicslib\PolylineMouseHandler.class
+mygraphicslib\SoundPlayer.class
+mygraphicslib\Drawer.class
+mygraphicslib\PolylineCollection.class
